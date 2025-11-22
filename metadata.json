@@ -1,0 +1,7 @@
+{
+  "name": "GoCab - Ultimate Ride Booking",
+  "description": "A comprehensive ride-booking platform featuring Rider, Driver, and Admin panels. Simulates a full-stack experience with intelligent routing assistance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
